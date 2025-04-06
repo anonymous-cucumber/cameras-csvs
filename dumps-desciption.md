@@ -29,3 +29,10 @@ In `dumps/dump_2025-02-19T23:06:28.581Z.csv` we have following sources :
  - `sousSurveillanceNet`
  - `surveillanceUnderSurveillance` in france
  - `umapAngers`
+
+In `dumps/dump_2025-04-06T16:46:20.914Z.csv` we have following sources :
+ - `camerci`
+ - `parisPoliceArcgis`
+ - `sousSurveillanceNet`
+ - `surveillanceUnderSurveillance` in france
+ - `umapAngers`
