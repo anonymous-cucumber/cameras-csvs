@@ -36,3 +36,10 @@ In `dumps/dump_2025-04-06T16:46:20.914Z.csv` we have following sources :
  - `sousSurveillanceNet`
  - `surveillanceUnderSurveillance` in france
  - `umapAngers`
+
+In `dumps/dump_2025-05-05T10:37:08.527Z.csv` we have following sources :
+ - `camerci`
+ - `parisPoliceArcgis`
+ - `sousSurveillanceNet`
+ - `surveillanceUnderSurveillance` in france
+ - `umapAngers`
