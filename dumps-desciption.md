@@ -2,6 +2,13 @@
 
 This file describes what sources we have in each dump CSV file.
 
+In `dumps/dump_2026-02-19T13:37:31.801Z.csv` we have following sources :
+ - `camerci` from 2025-12-07
+ - `parisPoliceArcgis` from 2026-02-19
+ - `sousSurveillanceNet` from 2026-02-19
+ - `surveillanceUnderSurveillance` in france from 2026-02-19
+ - `umapAngers` from 2026-02-19
+
 In `dumps/dump_2026-01-18T16:20:17.749Z.csv` we have following sources :
  - `camerci` from 2025-12-07
  - `parisPoliceArcgis` from 2026-01-18
