@@ -1,0 +1,417 @@
+lat;lon;infos
+45.566836;5.92581;{"type":"public"}
+45.563332;5.923809;{"type":"public"}
+45.566727;5.912635;{"description":"Dôme 360 degrés","type":"public"}
+45.572243;5.910414;{"type":"public"}
+45.564041;5.925289;{"type":"public"}
+45.563771;5.924962;{"type":"public"}
+45.563305;5.924935;{"type":"public"}
+45.562892;5.925112;{"type":"public"}
+45.562167;5.90491;{"type":"public"}
+45.559906;5.90661;{"type":"public"}
+45.560015;5.903097;{"type":"public"}
+45.56163;5.902689;{"type":"public"}
+45.563538;5.903515;{"type":"public"}
+45.563854;5.903504;{"type":"public"}
+45.571057;5.920789;{"type":"public"}
+45.569827;5.944953;{"type":"public"}
+45.575499;5.90623;{"type":"public"}
+45.574744;5.905792;{"type":"public"}
+45.569318;5.9172;{"type":"public"}
+45.563797;5.924208;{"type":"public"}
+45.59534;5.894326;{"type":"public"}
+45.560691;5.944644;{"type":"public"}
+45.63921;5.875095;{"type":"public"}
+45.640943;5.874215;{"type":"public"}
+45.640898;5.874553;{"type":"public"}
+45.641089;5.874692;{"type":"public"}
+45.641239;5.874456;{"type":"public"}
+45.561683;5.903192;{"type":"public"}
+45.560986;5.904115;{"type":"public"}
+45.585566;5.90646;{"type":"public"}
+45.585806;5.906771;{"type":"public"}
+45.593636;5.886655;{"type":"public"}
+45.597472;5.884777;{"type":"public"}
+45.562132;5.898993;{"type":"public"}
+45.644041;5.866233;{"name":"2 directionnelles route ","type":"public"}
+45.566205;5.932574;{"name":"360","type":"public"}
+45.566213;5.93045;{"name":"360","type":"public"}
+45.5712;5.941527;{"name":"360","type":"public"}
+45.57129;5.943024;{"name":"360","type":"public"}
+45.571426;5.94108;{"name":"360 voie publique","type":"public"}
+45.55958;5.901354;{"name":"360 voie publique","type":"public"}
+45.564981;5.924451;{"name":"Bar","type":"public"}
+45.655141;5.859806;{"name":"Caméra 360","type":"public"}
+45.595107;5.878458;{"name":"Caméra 360","type":"public"}
+45.559677;5.905709;{"name":"Caméra 360","type":"public"}
+45.593237;5.900339;{"name":"caméra 360 15m de hauteur","type":"public"}
+45.593568;5.900903;{"name":"Caméra d'angle 360 12 m de hauteur","type":"public"}
+45.564092;5.912101;{"name":"Caméra hôpital ","type":"public"}
+45.568599;5.924533;{"name":"Caméra Parc ","description":"Les caméras c'est nul","type":"public"}
+45.559042;5.896021;{"name":"dircetionnelle publique","type":"public"}
+45.560579;5.897765;{"name":"direction elle publique vers la route","type":"public"}
+45.559433;5.895935;{"name":"directionelle publique","type":"public"}
+45.5577;5.909679;{"name":"Directionnelle","type":"public"}
+45.644802;5.869392;{"name":"Directionnelle - avenue du lac d'Aiguebelette","type":"public"}
+45.644517;5.869687;{"name":"Directionnelle - avenue du lac d'Annecy","type":"public"}
+45.643733;5.87334;{"name":"Directionnelle - avenue du lac de Côme","type":"public"}
+45.646345;5.871452;{"name":"Directionnelle - avenue du lac de Garde","type":"public"}
+45.644637;5.869253;{"name":"Directionnelle - avenue du lac du Bourget","type":"public"}
+45.644839;5.869845;{"name":"Directionnelle - avenue du lac du Bourget","type":"public"}
+45.64639;5.871795;{"name":"Directionnelle - avenue du lac du Bourget","type":"public"}
+45.646126;5.871455;{"name":"Directionnelle - avenue du lac du Bourget","type":"public"}
+45.64607;5.871876;{"name":"Directionnelle - avenue du lac Léman","type":"public"}
+45.643519;5.873662;{"name":"Directionnelle - avenue du lac Léman","type":"public"}
+45.643962;5.873512;{"name":"Directionnelle - avenue du lac Léman","type":"public"}
+45.559071;5.907238;{"name":"Directionnelle - rue Emmanuel Grand","type":"public"}
+45.559219;5.896568;{"name":"directionnelle publique","type":"public"}
+45.559088;5.907301;{"name":"Directionnelle route de Saint cassin","type":"public"}
+45.558048;5.909228;{"name":"Directionnelle sens de la pente","type":"public"}
+45.566351;5.919651;{"name":"Dole 360","type":"public"}
+45.567264;5.921824;{"name":"Dole 360","type":"public"}
+45.564059;5.91109;{"name":"dôme ","type":"public"}
+45.579085;5.967706;{"name":"Dome (poteau sur le terre plein central)","type":"public"}
+45.564209;5.924627;{"name":"Dôme 360","type":"public"}
+45.565792;5.923358;{"name":"Dôme 360","type":"public"}
+45.567264;5.918852;{"name":"Dôme 360","type":"public"}
+45.563106;5.924061;{"name":"Dôme 360","type":"public"}
+45.563046;5.924039;{"name":"Dôme 360","type":"public"}
+45.566828;5.922672;{"name":"Dome 360","type":"public"}
+45.569998;5.917227;{"name":"Dôme 360","type":"public"}
+45.565833;5.919752;{"name":"Dôme 360 - Fromagerie","type":"public"}
+45.566276;5.920671;{"name":"Dôme 360 - Mairie","type":"public"}
+45.567872;5.919056;{"name":"Dôme 360 - Office de tourisme","description":"Dôme 360","type":"public"}
+45.565945;5.921744;{"name":"Dôme 360 - Pharmacie","type":"public"}
+45.565228;5.920134;{"name":"Dôme 360 - Place Saint léger","type":"public"}
+45.568552;5.921553;{"name":"Dôme 360 blanc angle mur","type":"public"}
+45.564011;5.921915;{"name":"Dôme 360 blanc mur","type":"public"}
+45.566505;5.926475;{"name":"Dôme 360 blanc mur","type":"public"}
+45.566272;5.92729;{"name":"Dôme 360 blanc mur","type":"public"}
+45.570613;5.919887;{"name":"Dôme 360 blanc mur","description":"Au dessus de l'entrée de la gare","type":"public"}
+45.568176;5.922505;{"name":"Dôme 360 blanc mur","type":"public"}
+45.56891;5.917076;{"name":"Dôme 360 degrés","type":"public"}
+45.568652;5.916669;{"name":"Dôme 360 degrès","type":"public"}
+45.564066;5.911398;{"name":"Dôme 360 Hôpital Urgences","type":"public"}
+45.56456;5.923133;{"name":"Dôme 360 mur blanc","description":"Au dessus de la traboule","type":"public"}
+45.566021;5.925879;{"name":"Dôme 360 poteau vert","type":"public"}
+45.566616;5.920617;{"name":"Entrée Sortie parking","type":"public"}
+45.592557;5.919649;{"name":"Grosse caméra 360  ","type":"public"}
+45.590196;5.920339;{"name":"La dynamo caméra 360","description":"Bonne visibilité","type":"public"}
+45.576186;5.898623;{"name":"Mairie","type":"public"}
+45.563771;5.919694;{"name":"Place caffe Dôme 360 ","type":"public"}
+45.565131;5.917095;{"name":"public, derrière le portail saint dominique","type":"public"}
+45.566768;5.925874;{"name":"publique","type":"public"}
+45.563799;5.925791;{"name":"publique 360","type":"public"}
+45.556868;5.907362;{"name":"Soucoupe 360","type":"public"}
+45.56391;5.915081;{"name":"Sphère orientable","type":"public"}
+45.566148;5.91794;{"name":"Sphère orientable","type":"public"}
+45.573445;5.910315;{"name":"Sphère orientable","type":"public"}
+45.574399;5.937102;{"name":"voie publique","type":"public"}
+45.574181;5.936651;{"name":"voie publique","type":"public"}
+45.576652;5.939473;{"name":"voie publique","type":"public"}
+45.577204;5.93825;{"name":"voie publique","type":"public"}
+45.576608;5.939603;{"name":"voie publique","type":"public"}
+45.577358;5.937322;{"name":"voie publique","type":"public"}
+45.57726;5.937381;{"name":"Voie publique","type":"public"}
+45.57648;5.943829;{"name":"voie publique","type":"public"}
+45.580504;5.942284;{"name":"Voie publique","type":"public"}
+45.578567;5.955786;{"name":"voie publique","type":"public"}
+45.578913;5.956693;{"name":"voie publique","type":"public"}
+45.580403;5.958602;{"name":"voie publique","type":"public"}
+45.579502;5.960051;{"name":"Voie publique","type":"public"}
+45.577884;5.939462;{"name":"Voie publique","type":"public"}
+45.575514;5.936324;{"name":"voie publique ","type":"public"}
+45.582231;5.944118;{"name":"voie publique ","type":"public"}
+45.556901;5.90817;{"name":"Caméra école vise en direction de la route où passent les bus (nord-est)","type":"public"}
+45.55619;5.907697;{"name":"EDIT : Autorité publique ou école : 3 caméras unidirectionnelles dans toutes les directions ","type":"public"}
+45.557249;5.906293;{"name":"Caméra voie publique unidirectionnelle dans le sens de la route vers le sud - hauteur environ 7 mètres","type":"public"}
+45.557539;5.90977;{"name":"Caméra 360 soucoupe plus une seconde unidirectionelle en dessous (même poteau) en direction de la rue Jean-Baptiste Richard","type":"public"}
+45.577856;5.899603;{"name":"Caméra publique rotative - dôme 360 - hauteur 8 mètres","type":"public"}
+45.568717;5.892314;{"name":"Caméras voie publique - 2 directionnelles, l'une orientée sud, l'autre orientée ouest ","type":"public"}
+45.568136;5.892829;{"name":"Caméra privée - en direction de l'entrée du batiment - Pas de prise su rla route ","type":"public"}
+45.567814;5.892923;{"name":"Caméra privé - vue uniquement sur son terrain (parking)","type":"public"}
+45.564812;5.893456;{"name":"Caméra voie publique - orientée dans le sens de la route vers le carrefour (sud)","type":"public"}
+45.562423;5.893579;{"name":"Caméra publique orientée en direction du rond point","type":"public"}
+45.562351;5.894573;{"name":"Caméra publique - soucoupe 360°","type":"public"}
+45.561915;5.896959;{"name":"Caméra publique Mairie - Directionelle visant l'accueil (nord)","type":"public"}
+45.561925;5.896828;{"name":"Caméra publique Mairie directionnelle visant l'entrée (sud)","type":"public"}
+45.561948;5.89681;{"name":"Caméra publique Mairie orientée vers les places de parking handicapé","type":"public"}
+45.568046;5.922788;{"type":"private"}
+45.563031;5.924158;{"type":"private"}
+45.562727;5.925096;{"type":"private"}
+45.563771;5.926083;{"type":"private"}
+45.562935;5.912029;{"type":"private"}
+45.562742;5.911983;{"type":"private"}
+45.562571;5.911388;{"type":"private"}
+45.562659;5.910722;{"type":"private"}
+45.563078;5.907646;{"type":"private"}
+45.563471;5.902539;{"type":"private"}
+45.574284;5.905361;{"type":"private"}
+45.564611;5.918383;{"type":"private"}
+45.645101;5.867595;{"type":"private"}
+45.572281;5.916368;{"type":"private"}
+45.571417;5.920708;{"type":"private"}
+45.560722;5.913359;{"type":"private"}
+45.560815;5.913745;{"type":"private"}
+45.560919;5.91393;{"type":"private"}
+45.561103;5.914228;{"type":"private"}
+45.561034;5.914335;{"type":"private"}
+45.561501;5.914748;{"type":"private"}
+45.561909;5.914593;{"type":"private"}
+45.562029;5.914673;{"type":"private"}
+45.562182;5.915285;{"type":"private"}
+45.561727;5.91497;{"type":"private"}
+45.561942;5.915361;{"type":"private"}
+45.56164;5.91542;{"type":"private"}
+45.561407;5.915447;{"type":"private"}
+45.561538;5.915424;{"type":"private"}
+45.569847;5.920582;{"type":"private"}
+45.574376;5.905012;{"type":"private"}
+45.602182;5.886392;{"type":"private"}
+45.602295;5.886537;{"type":"private"}
+45.602404;5.886687;{"type":"private"}
+45.602505;5.886843;{"type":"private"}
+45.60261;5.887014;{"type":"private"}
+45.602712;5.887159;{"type":"private"}
+45.602798;5.887277;{"type":"private"}
+45.565322;5.941557;{"type":"private"}
+45.565176;5.941455;{"type":"private"}
+45.574083;5.944357;{"type":"private"}
+45.573497;5.943523;{"type":"private"}
+45.573779;5.946055;{"type":"private"}
+45.573477;5.947179;{"type":"private"}
+45.572752;5.947168;{"type":"private"}
+45.570279;5.948524;{"type":"private"}
+45.570183;5.94883;{"type":"private"}
+45.566377;5.946769;{"type":"private"}
+45.567241;5.945717;{"type":"private"}
+45.567333;5.945736;{"type":"private"}
+45.565987;5.94422;{"type":"private"}
+45.56493;5.942316;{"type":"private"}
+45.564443;5.942131;{"type":"private"}
+45.564167;5.943649;{"type":"private"}
+45.564132;5.94361;{"type":"private"}
+45.566186;5.940444;{"type":"private"}
+45.566738;5.939913;{"type":"private"}
+45.581596;5.906702;{"type":"private"}
+45.586383;5.902861;{"type":"private"}
+45.589323;5.899326;{"type":"private"}
+45.589694;5.899036;{"type":"private"}
+45.58948;5.898516;{"type":"private"}
+45.590235;5.89829;{"type":"private"}
+45.59022;5.897373;{"type":"private"}
+45.593959;5.892969;{"type":"private"}
+45.594244;5.89269;{"type":"private"}
+45.559016;5.947906;{"type":"private"}
+45.558006;5.94782;{"type":"private"}
+45.557927;5.947959;{"type":"private"}
+45.557198;5.948743;{"type":"private"}
+45.557029;5.948909;{"type":"private"}
+45.556774;5.949134;{"type":"private"}
+45.55603;5.9501;{"type":"private"}
+45.555023;5.950261;{"type":"private"}
+45.554884;5.95047;{"type":"private"}
+45.554974;5.950845;{"type":"private"}
+45.554603;5.951328;{"type":"private"}
+45.555027;5.951291;{"type":"private"}
+45.554896;5.951436;{"type":"private"}
+45.554715;5.951763;{"type":"private"}
+45.55446;5.95158;{"type":"private"}
+45.55554;5.954968;{"type":"private"}
+45.557132;5.953329;{"type":"private"}
+45.559185;5.950813;{"type":"private"}
+45.559519;5.951149;{"type":"private"}
+45.561116;5.949341;{"type":"private"}
+45.560625;5.949687;{"type":"private"}
+45.645353;5.865514;{"type":"private"}
+45.645207;5.865578;{"type":"private"}
+45.645222;5.864956;{"type":"private"}
+45.645098;5.865031;{"type":"private"}
+45.568518;5.917937;{"type":"private"}
+45.568323;5.918251;{"type":"private"}
+45.568205;5.91856;{"type":"private"}
+45.568435;5.918788;{"type":"private"}
+45.568685;5.919029;{"type":"private"}
+45.568848;5.918675;{"type":"private"}
+45.569004;5.918423;{"type":"private"}
+45.568751;5.918171;{"type":"private"}
+45.58073;5.910264;{"type":"private"}
+45.580362;5.90977;{"type":"private"}
+45.579995;5.91013;{"type":"private"}
+45.579761;5.909625;{"type":"private"}
+45.57957;5.910489;{"type":"private"}
+45.579372;5.909979;{"type":"private"}
+45.581933;5.908821;{"type":"private"}
+45.569821;5.920625;{"name":" 1carosserie","type":"private"}
+45.570991;5.920892;{"name":"1ere étage boîte rouge droite escalier ","type":"private"}
+45.57134;5.920956;{"name":"2 cameras","type":"private"}
+45.571896;5.920982;{"name":"2 cameras ","type":"private"}
+45.574436;5.906466;{"name":"360","type":"private"}
+45.57144;5.919276;{"name":"Accès gare","type":"private"}
+45.601773;5.888908;{"name":"Autoroute","type":"private"}
+45.567657;5.922712;{"name":"Banque 1","type":"private"}
+45.567617;5.922818;{"name":"Banque 2","type":"private"}
+45.564628;5.919437;{"name":"Banque intérieur","type":"private"}
+45.563536;5.921693;{"name":"Bar","type":"private"}
+45.638415;5.873415;{"name":"Bord baiment EDF","type":"private"}
+45.637425;5.872841;{"name":"Bord bâtiment EDF","type":"private"}
+45.566319;5.919079;{"name":"Bord Fnac","type":"private"}
+45.59365;5.898827;{"name":"caméra 360 6m de hauteu","type":"private"}
+45.574685;5.92347;{"name":"Caméra boulangerie","description":"Visibilité parking seulement","type":"private"}
+45.571441;5.912796;{"name":"Caméra CA distributeur 1","type":"private"}
+45.571442;5.912853;{"name":"Caméra CA distributeur 2","type":"private"}
+45.571185;5.912773;{"name":"caméra distributeur ","type":"private"}
+45.569972;5.916993;{"name":"Caméra distributeur ","type":"private"}
+45.569972;5.916993;{"name":"Caméra distributeur ","type":"private"}
+45.569972;5.916993;{"name":"Caméra distributeur ","type":"private"}
+45.57058;5.914896;{"name":"caméra distributeur CIC","type":"private"}
+45.567962;5.922152;{"name":"Caméra entre la vie claire et Allianz (rue ++)","type":"private"}
+45.571412;5.912066;{"name":"caméra entrée carrefour (visibilité réduite)","type":"private"}
+45.569451;5.921955;{"name":"caméra entrée parking ","type":"private"}
+45.572159;5.921054;{"name":"caméra entrée parking ","description":"2 cameras ","type":"private"}
+45.569934;5.917444;{"name":"caméra entrée parking barrière","type":"private"}
+45.569934;5.917444;{"name":"caméra entrée parking barrière","type":"private"}
+45.569934;5.917444;{"name":"caméra entrée parking barrière","type":"private"}
+45.571979;5.921569;{"name":"Caméra entrée passerelle","description":"Donnant sur la rue","type":"private"}
+45.563991;5.911736;{"name":"Caméra entrée urgence ","type":"private"}
+45.593433;5.900656;{"name":"Caméra extérieur Paul","type":"private"}
+45.572014;5.920783;{"name":"Caméra grand block vert ","description":"2 cameras\nVis-à-vis potentiel sur la rue\n","type":"private"}
+45.592401;5.918493;{"name":"Caméra intérieur 360","description":"Potentielle visibilité sur l'extérieur","type":"private"}
+45.592574;5.918648;{"name":"Caméra intérieur 360","description":"Potentielle visibilité sur l'extérieur","type":"private"}
+45.570963;5.911642;{"name":"caméra parking ","type":"private"}
+45.571107;5.920955;{"name":"caméra parking ","description":"A côté de panneau publicitaire alpha conseil\nx 2 calera","type":"private"}
+45.561912;5.91382;{"name":"caméra particulier maison ","type":"private"}
+45.568317;5.922001;{"name":"Caméra privée du corsaire, donnant sur la rue (x2)","type":"private"}
+45.568317;5.922001;{"name":"Caméra privée du corsaire, donnant sur la rue (x2)","type":"private"}
+45.568288;5.922215;{"name":"Caméra privée résidence des comtes de savoie","description":"Donnant sur la rue","type":"private"}
+45.568288;5.922215;{"name":"Caméra privée résidence des comtes de savoie","description":"Donnant sur la rue","type":"private"}
+45.567788;5.922571;{"name":"Caméra SG donnant sur la rue","type":"private"}
+45.567746;5.922516;{"name":"Caméra SG Donnant sur la rue","type":"private"}
+45.570834;5.920848;{"name":"caméra sortie parking ","type":"private"}
+45.571145;5.911578;{"name":"Caméras parking X2 dont une mobile","type":"private"}
+45.565372;5.922908;{"name":"cloitre","type":"private"}
+45.565391;5.922544;{"name":"Cloitre","type":"private"}
+45.562604;5.926196;{"name":"Coin notaires","type":"private"}
+45.562547;5.926376;{"name":"Coin notaires","type":"private"}
+45.563198;5.926598;{"name":"Coin notaires ","type":"private"}
+45.566474;5.921267;{"name":"Compteur Savoyard de Change","type":"private"}
+45.567336;5.918892;{"name":"Côté banque","type":"private"}
+45.564535;5.917903;{"name":"directionnelle","type":"private"}
+45.564597;5.917378;{"name":"directionnelle","type":"private"}
+45.593279;5.893763;{"name":"Directionnelle","type":"private"}
+45.59349;5.893849;{"name":"Directionnelle","type":"private"}
+45.564819;5.9172;{"name":"directionnelle ","type":"private"}
+45.564837;5.917456;{"name":"directionnelle ","type":"private"}
+45.564715;5.918495;{"name":"directionnelle ","type":"private"}
+45.644046;5.867748;{"name":"Directionnelle - entrée l'Horloge","type":"private"}
+45.637165;5.884138;{"name":"directionnelle barriere","type":"private"}
+45.573781;5.946119;{"name":"Directionnelle caisse","type":"private"}
+45.638411;5.884691;{"name":"directionnelle courbe","type":"private"}
+45.638097;5.884026;{"name":"directionnelle entrée","type":"private"}
+45.567726;5.922566;{"name":"Disteibuteur","type":"private"}
+45.571274;5.948029;{"name":"Distrib","type":"private"}
+45.567351;5.918832;{"name":"Distributeur","type":"private"}
+45.566319;5.921156;{"name":"Distributeur","type":"private"}
+45.564696;5.919512;{"name":"Distributeur","type":"private"}
+45.566439;5.919839;{"name":"Distributeur","type":"private"}
+45.5664;5.929471;{"name":"Distributeur","type":"private"}
+45.56098;5.897861;{"name":"distributeur","type":"private"}
+45.561822;5.898725;{"name":"distributeur","type":"private"}
+45.566268;5.923471;{"name":"Distributeur ","type":"private"}
+45.564797;5.918238;{"name":"ditectionnelle","type":"private"}
+45.593602;5.893253;{"name":"Dôme","type":"private"}
+45.646302;5.8701;{"name":"Dôme","type":"private"}
+45.643223;5.874301;{"name":"Dôme","type":"private"}
+45.644952;5.873445;{"name":"Dôme","type":"private"}
+45.563692;5.92371;{"name":"Dôme 360","type":"private"}
+45.567148;5.925523;{"name":"Double","type":"private"}
+45.56535;5.916937;{"name":"Entre parking","type":"private"}
+45.565296;5.91599;{"name":"Entre parking","type":"private"}
+45.643718;5.870875;{"name":"Entrée","type":"private"}
+45.567791;5.922387;{"name":"Entrée banque","type":"private"}
+45.565153;5.922437;{"name":"Entrée Bar","type":"private"}
+45.566656;5.923905;{"name":"Entrée CCI","type":"private"}
+45.566727;5.918576;{"name":"Entrée cinéma","type":"private"}
+45.566552;5.923814;{"name":"entrée coin","type":"private"}
+45.566389;5.921489;{"name":"Entrée courses","type":"private"}
+45.566849;5.913206;{"name":"Entrée garage","type":"private"}
+45.567433;5.9182;{"name":"Entrée lycée","type":"private"}
+45.566609;5.920748;{"name":"Entrée mairie","type":"private"}
+45.561646;5.910044;{"name":"Entrée maison","type":"private"}
+45.566425;5.918203;{"name":"Entrée parking","type":"private"}
+45.570358;5.918018;{"name":"Entrée parking","type":"private"}
+45.570358;5.918018;{"name":"Entrée parking","type":"private"}
+45.570358;5.918018;{"name":"Entrée parking","type":"private"}
+45.570358;5.918018;{"name":"Entrée parking","type":"private"}
+45.562623;5.925783;{"name":"Entrée parking","type":"private"}
+45.574184;5.906659;{"name":"Entrée parking","type":"private"}
+45.563956;5.914485;{"name":"entrée parking hopital","type":"private"}
+45.566422;5.914185;{"name":"Entrée portail","type":"private"}
+45.56388;5.911318;{"name":"entrée urgences","type":"private"}
+45.568137;5.918219;{"name":"Entrée vaugelas côté","type":"private"}
+45.566439;5.914534;{"name":"Entrée visiteurs","type":"private"}
+45.56662;5.921945;{"name":"Haut magasin","type":"private"}
+45.593271;5.899352;{"name":"Haute caméra 360 ~ 13m de hauteur","type":"private"}
+45.641886;5.868394;{"name":"Intérieure","type":"private"}
+45.641526;5.86851;{"name":"Intérieure","type":"private"}
+45.565829;5.923938;{"name":"LBTS","type":"private"}
+45.561007;5.9147;{"name":"locker mondial relay","type":"private"}
+45.565987;5.923782;{"name":"Lycée","type":"private"}
+45.566006;5.916559;{"name":"Mairie de quartier intérieur","type":"private"}
+45.589683;5.903732;{"name":"Moyenne caméra mécanicien savoie","type":"private"}
+45.567025;5.911449;{"name":"Mur","type":"private"}
+45.566719;5.91139;{"_umap_options":{"iconClass":"Drop","showLabel":null},"name":"Mur","type":"private"}
+45.562735;5.926539;{"name":"Notaires","type":"private"}
+45.562904;5.926657;{"name":"Notaires","type":"private"}
+45.638445;5.885131;{"name":"orientable 360","type":"private"}
+45.638629;5.883731;{"name":"orientable 360","type":"private"}
+45.637752;5.88335;{"name":"orientable 360","type":"private"}
+45.637621;5.883643;{"name":"orientable 360","type":"private"}
+45.569115;5.919372;{"name":"Parking","type":"private"}
+45.569744;5.916607;{"name":"Parking","type":"private"}
+45.569744;5.916607;{"name":"Parking","type":"private"}
+45.569744;5.916607;{"name":"Parking","type":"private"}
+45.565097;5.941882;{"name":"particulier","type":"private"}
+45.566507;5.919843;{"name":"passage","type":"private"}
+45.602074;5.886253;{"name":"Péage","type":"private"}
+45.589882;5.903593;{"name":"Petite caméra","type":"private"}
+45.594454;5.900136;{"name":"Petite caméra 360","type":"private"}
+45.594377;5.900015;{"name":"Petite caméra 360","type":"private"}
+45.594291;5.899586;{"name":"Petite caméra 360","type":"private"}
+45.569827;5.918469;{"name":"Petite caméra 360° parking ","type":"private"}
+45.592222;5.902834;{"name":"Petite caméra d'entrée coté","type":"private"}
+45.592053;5.902853;{"name":"petite caméra extérieur","type":"private"}
+45.591937;5.90293;{"name":"Petite caméra extérieur","type":"private"}
+45.592012;5.902829;{"name":"Petite caméra extérieur x2","type":"private"}
+45.593407;5.900567;{"name":"petite caméra intérieur","description":"Vue extérieur","type":"private"}
+45.589953;5.903523;{"name":"Petite caméra mécanicien savoie","type":"private"}
+45.594702;5.899825;{"name":"Petite caméra sortie 360","type":"private"}
+45.563717;5.926397;{"name":"privé","type":"private"}
+45.562972;5.926437;{"name":"prive","type":"private"}
+45.562874;5.92633;{"name":"privé","type":"private"}
+45.645203;5.874585;{"name":"Privé INES","type":"private"}
+45.645158;5.87436;{"name":"Privé INES directionelle entrée","type":"private"}
+45.580097;5.957914;{"name":"privée","type":"private"}
+45.623381;5.876999;{"name":"privée ","type":"private"}
+45.563422;5.922763;{"name":"Sortie parking ","type":"private"}
+45.564895;5.918329;{"name":"soucoupe","type":"private"}
+45.564916;5.924474;{"name":"Tabac","type":"private"}
+45.643752;5.870975;{"name":"Vers espace vert","type":"private"}
+45.637132;5.872959;{"name":"x 2 camera passage piéton et route","type":"private"}
+45.560317;5.89571;{"name":"Caméra 8 mètres orientée vers le parking (sud) et avec potentiellement une vue sur la route D14","type":"private"}
+45.574222;5.893527;{"name":"Caméra d'un particulier - très haute - dépasse surement sur la route","type":"private"}
+45.561286;5.915308;{"name":"Caméra unidirectionnelle privée (résidence), en direction de la résidence du nivolet","type":"private"}
+45.57687;5.909979;{"name":"Caméras privées - 4 directionnelles parking synchro","type":"private"}
+45.576167;5.90999;{"name":"Caméra privé  - Directionnelle orientée très bas ","type":"private"}
+45.57617;5.910112;{"name":"Caméra privé  2 - Directionnelle orientée très bas ","type":"private"}
+45.577345;5.911884;{"name":"Caméras privées - 2 Directionelle (l'une au dessus de l'autre) en direction de la propriété","type":"private"}
+45.576789;5.911843;{"name":"Caméra privé  - Directionnelle orientée vers le sol depuis une extention de batiment n'apparraissant pas sur la carte","type":"private"}
+45.577363;5.913395;{"name":"Caméra privé - Directionnelle (sud-est) ","type":"private"}
+45.577402;5.913406;{"name":"Caméra privé - Directionnelle (nord-est)","type":"private"}
+45.564245;5.893079;{"name":"Caméra privé directionnelle orientée parking (sud)","type":"private"}
+45.562296;5.896997;{"name":"Deuxième caméra privée - La Poste","type":"private"}
+45.562347;5.897023;{"name":"Caméra privé - La Poste","type":"private"}
+45.55996;5.895926;{"name":"Caméra Super U - Directionelle orientée porte de garage (renfoncement intérieur)","type":"private"}
+45.559902;5.896004;{"name":"Caméra Super U - Dôme - 7 mètres environ","type":"private"}
+45.560348;5.89645;{"name":"Caméra Super U - Caméra dôme 360","type":"private"}
+45.560131;5.896532;{"name":"Caméra Super U - Caméra dôme 360","type":"private"}
