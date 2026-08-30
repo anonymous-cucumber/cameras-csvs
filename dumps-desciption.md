@@ -2,10 +2,18 @@
 
 This file describes what sources we have in each dump CSV file.
 
+In `dumps/dump_2026-08-30T10:04:49.985Z.csv` we have following sources :
+ - `camerci` from 2026-08-30
+ - `parisPoliceArcgis` from 2026-08-30
+ - `sousSurveillanceNet` from 2026-07-31
+ - `surveillanceUnderSurveillance` in france from 2026-08-30
+ - `umapAngers` from 2026-08-30
+ - `umapChambery` from 2026-08-30
+
 In `dumps/dump_2026-06-30T12:17:15.664Z.csv` we have following sources :
  - `camerci` from 2026-06-30
  - `parisPoliceArcgis` from 2026-06-30
- - `sousSurveillanceNet` 2026-06-30
+ - `sousSurveillanceNet` from 2026-06-30
  - `surveillanceUnderSurveillance` in france from 2026-06-30
  - `umapAngers` from 2026-06-30
  - `umapChambery` from 2026-06-30
@@ -13,7 +21,7 @@ In `dumps/dump_2026-06-30T12:17:15.664Z.csv` we have following sources :
 In `dumps/dump_2026-05-31T21:36:03.940Z.csv` we have following sources :
  - `camerci` from 2026-05-31
  - `parisPoliceArcgis` from 2026-05-31
- - `sousSurveillanceNet` 2026-05-31
+ - `sousSurveillanceNet` from 2026-05-31
  - `surveillanceUnderSurveillance` in france from 2026-05-31
  - `umapAngers` from 2026-05-31
  - `umapChambery` from 2026-05-31
@@ -21,7 +29,7 @@ In `dumps/dump_2026-05-31T21:36:03.940Z.csv` we have following sources :
 In `dumps/dump_2026-05-04T19:15:30.206Z.csv` we have following sources :
  - `camerci` from 2026-05-04
  - `parisPoliceArcgis` from 2026-05-04
- - `sousSurveillanceNet` 2026-05-04
+ - `sousSurveillanceNet` from 2026-05-04
  - `surveillanceUnderSurveillance` in france from 2026-05-04
  - `umapAngers` from 2026-05-04
  - `umapChambery` from 2026-05-04
@@ -29,7 +37,7 @@ In `dumps/dump_2026-05-04T19:15:30.206Z.csv` we have following sources :
 In `dumps/dump_2026-03-29T18:03:08.579Z.csv` we have following sources :
  - `camerci` from 2026-03-29
  - `parisPoliceArcgis` from 2026-03-29
- - `sousSurveillanceNet` 2026-03-29
+ - `sousSurveillanceNet` from 2026-03-29
  - `surveillanceUnderSurveillance` in france from 2026-03-29
  - `umapAngers` from 2026-03-29
  - `umapChambery` from 2026-03-29
